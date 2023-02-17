@@ -17,7 +17,7 @@ contract DcaCashCanto is Ownable {
     address public constant NATIVE_TOKEN =
         0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE;
 
-    mapping(bytes => address) taskIdOwners;
+    mapping(bytes => address) public taskIdOwners;
     uint256 public recurringFee;
 
     constructor() {
