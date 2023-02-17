@@ -1,0 +1,9 @@
+export const WCANTO_ADDRESS = "0x826551890dc65655a0aceca109ab11abdbd7a07b";
+export const USDC_ADDRESS = "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd";
+export const NOTE_ADDRESS = "0x4e71a2e537b7f9d9413d3991d37958c0b5e1e503";
+export const ETH_ADDRESS = "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687";
+export const ATOM_ADDRESS = "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265";
+export const NOTE_WHALE = "0xd188844238A9449f317BC55521f8503Cb14c4D59";
+export const DAY = 1440;
+export const WEEK = 10080;
+export const MONTH = 43800;
